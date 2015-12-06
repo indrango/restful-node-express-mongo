@@ -1,4 +1,4 @@
 # restful-node-express-mongo
- Node JS
- ExpressJS
+ Node JS,
+ ExpressJS,
  MongoDB
